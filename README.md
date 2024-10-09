@@ -14,9 +14,8 @@
 <a>Caio Alves de Souza</a><br><br>
 
 <div align="center"> 
-<h1>Monitoramento de Ativos e Servidor da Cidade</h1>
+<h2>Monitoramento de Ativos e Servidor da Cidade</h2>
 </div>
 <div align="center"> 
-<img src=".github/workflows/arquitetura.PNG" alt="Arquitetura do Projeto" width="80">
-<h1>Monitoramento de Ativos e Servidor da Cidade</h1>
+<img src=".github/workflows/arquitetura.PNG" alt="Arquitetura do Projeto" width="140">
 </div>
