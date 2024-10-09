@@ -7,7 +7,7 @@
 
 <h2>Sobre o Repositório:</h2>
 <a>Repositório com documentação para permitir manter o código-fonte dos projetos em ordem.</a>
-
+<br>
 <br>
 <strong>Colaboradores:</strong><br>
 <a>João Emanuel de Souza</a><br>
