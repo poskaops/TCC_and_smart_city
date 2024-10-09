@@ -17,5 +17,5 @@
 <h2>Monitoramento de Ativos e Servidor da Cidade</h2>
 </div>
 <div align="center"> 
-<img src=".github/workflows/arquitetura.PNG" alt="Arquitetura do Projeto" width="140">
+<img src=".github/workflows/arquitetura.PNG" alt="Arquitetura do Projeto">
 </div>
