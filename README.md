@@ -12,3 +12,11 @@
 <strong>Colaboradores:</strong><br>
 <a>João Emanuel de Souza</a><br>
 <a>Caio Alves de Souza</a><br><br>
+
+<div align="center"> 
+<h1>Monitoramento de Ativos e Servidor da Cidade</h1>
+</div>
+<div align="center"> 
+<img src=".github/workflows/arquitetura.PNG" alt="Arquitetura do Projeto" width="80">
+<h1>Monitoramento de Ativos e Servidor da Cidade</h1>
+</div>
